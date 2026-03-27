@@ -1,16 +1,16 @@
-# 🚀 FacilityConnect - Smart Facility Management
+FacilityConnect - Smart Facility Management
 
 A comprehensive facility management platform with simulated real-time features, gamification, and multi-role support.
 
 ## ✨ Features
 
-- 🔧 **Service Requests** - Submit and track maintenance requests
-- 🍽️ **Food Services** - Order food with Indian Rupee pricing
-- 📅 **Room Booking** - Reserve meeting rooms and spaces (Users) / View bookings (Staff)
-- 💬 **Live Chat** - Simulated real-time messaging between users and staff
-- 🏆 **Gamification** - Points, badges, and leaderboards
-- 📊 **Analytics** - Performance metrics and insights
-- 👥 **Multi-Role Support** - User and Staff dashboards
+- **Service Requests** - Submit and track maintenance requests
+- **Food Services** - Order food with Indian Rupee pricing
+- **Room Booking** - Reserve meeting rooms and spaces (Users) / View bookings (Staff)
+- **Live Chat** - Simulated real-time messaging between users and staff
+- **Gamification** - Points, badges, and leaderboards
+- **Analytics** - Performance metrics and insights
+- **Multi-Role Support** - User and Staff dashboards
 
 ## 🚀 Quick Start
 
